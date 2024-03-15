@@ -1,0 +1,31 @@
+{
+  "name": "tools-crypto-ts",
+  "version": "1.0.0",
+  "description": "Debugging and typechecks app. Works in Node.js and browsers",
+  "engines": {
+    "node": ">=6.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "keywords": [
+    "typesafe",
+    "type",
+    "typecheck",
+    "debug",
+    "log"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YeCamila/tools-crypto-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YeCamila/tools-crypto-ts/issues"
+  },
+  "homepage": "https://github.com/YeCamila/tools-crypto-ts#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
